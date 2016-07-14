@@ -1,0 +1,12 @@
+digraph G {
+"Aeroporto"->"EN" [label=1];
+"Angeiras S-N"->"Neiva S-N" [label=1];
+"Braga Sul"->"Maia PV" [label=2];
+"Ceide"->"Maia PV" [label=5];
+"Maceda"->"ER" [label=1];
+"Maia PV"->"Braga Sul" [label=2];
+"Maia PV"->"Ceide" [label=5];
+"Miramar"->"Arada" [label=1];
+"Neiva N-S"->"Angeiras N-S" [label=1];
+"PQ Praca de Lisboa"->"PQ Praca de Lisboa" [label=1];
+}
